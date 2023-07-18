@@ -7,4 +7,4 @@ My name is Sanjar Zayniyev, and I'm a computer science student.
 - 👯 I’m looking for internships.
 - 💬 Ask me about chess, c++ and math.
 - 📫 How to reach me: `sanjarzayniev0@gmail.com`.
-- ⚡ Fun fact: prefers to pay with cards.
+- ⚡ Fun fact: prefer to pay with cards.
