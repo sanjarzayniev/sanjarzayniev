@@ -3,5 +3,5 @@
 
 My name is Sanjar and I'm a Computer and Software Engineering student. 
 
-- I’m currently into `Automated Testing`.
-- Ask me about `Java/C++`, math, chess.
+- I’m currently automating my tests.
+- Ask me about `Java`, `Selenium`, `Postman`.
